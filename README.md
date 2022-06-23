@@ -1,6 +1,6 @@
 # Intel NUC Model NUC10i5FNH
 
-This repository contains personal work and files, developed and maintained for a successful use with [OpenCore EFI bootloader](https://github.com/acidanthera/OpenCorePkg) on this specific Intel NUC model. There are **no** ready, pre-packaged EFI solutions provided; instead, the needed configuration and ACPI files are published for those interested in studying the code, while creating their own bootloader configurations.
+This repository fork from [mackonsti's repository](https://github.com/mackonsti/nuc10i7fnh/) contains his works and files, developed and maintained for a successful use with [OpenCore EFI bootloader](https://github.com/acidanthera/OpenCorePkg) on this specific Intel NUC model. There are **no** ready, pre-packaged EFI solutions provided; instead, the needed configuration and ACPI files are published for those interested in studying the code, while creating their own bootloader configurations.
 
 * **Comet Lake = All Core ix-10xxx (UHD Graphics 6xx)**
 

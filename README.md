@@ -136,4 +136,5 @@ With the injection of `SSDT-PLUG.aml` via OpenCore, we can verify that Power Man
 ## Credits
 
 Dortania Guides [Dortania](https://dortania.github.io/OpenCore-Install-Guide/).
+
 mackonsti for his repository [repository](https://github.com/mackonsti/nuc10i7fnh/).

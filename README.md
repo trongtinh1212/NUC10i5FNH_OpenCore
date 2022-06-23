@@ -51,7 +51,7 @@ Alternatively, if `ShowPicker` is disabled or `Timeout` set to 0, keep pressing 
 
 ## Active Configuration
 
-* Faking CPU ID is **absolutely** required, power management is native; MSR `0xE2` can be unlocked; :warning:
+* Faking CPU ID is **NOT** required, power management is native; MSR `0xE2` can be unlocked; :warning:
 * External USB 3.1 ports work as expected; using generated `USBPorts.kext`;
 * Internal USB 2.0 headers not used; they are disabled in BIOS;
 * External USB-C ports **not** tested yet;

@@ -1,0 +1,50 @@
+﻿─ CPU
+  └── Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+      ├── Cores: 4
+      ├── Threads: 8
+      ├── SSE: SSE4.2
+      ├── SSSE3: Supported
+      └── Codename: Comet Lake
+
+─ Motherboard
+  ├── Model: NUC10i5FNB
+  └── Manufacturer: Intel Corporation
+
+─ GPU
+  └── Intel(R) UHD Graphics
+      ├── Device ID: 0x9B41
+      ├── Vendor: 0x8086
+      ├── PCI Path: PciRoot(0x0)/Pci(0x2,0x0)
+      └── ACPI Path: \_SB.PCI0.GFX0
+
+
+─ Network
+  ├── Ethernet Connection (10) I219-V
+  │   ├── Device ID: 0x0D4F
+  │   ├── Vendor: 0x8086
+  │   ├── PCI Path: PciRoot(0x0)/Pci(0x1f,0x6)
+  │   └── ACPI Path: \_SB.PCI0.GLAN
+  └── Wifi 6 AX201 160MHZ
+      ├── Device ID: 0x02F0
+      ├── Vendor: 0x8086
+      ├── PCI Path: PciRoot(0x0)/Pci(0x14,0x3)
+      └── ACPI Path: \_SB.PCI0.CNVW
+
+─ Audio
+  ├── Realtek ALC256
+  │   ├── Device ID: 0x0256
+  │   └── Vendor: 0x10EC
+  └── Intel(R) Display Audio
+      ├── Device ID: 0x280B
+      └── Vendor: 0x8086
+
+
+Intel Blutooth
+
+      └── ACPI Path: \_SB.PCI0.XHC.RHUB.HS10
+      └── USB IDs: 0x8087, 0x0026
+
+Intel SMBus
+	└── ACPI Path:\_SB.PCI0.SBUS
+
+CFG Lock : CFG Lock, VarStoreInfo (VarOffset/VarName): 0x3E, VarStore: 0x11 --> setup_var_cv CpuSetup 0x3E 0x01 0x00
